@@ -1,10 +1,8 @@
-### Hi there 👋
-
 ### Hi there, I'm Parmesh 👋
 
 ## I'm a Developer who drinks a ton of Coffee!!
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
+- 🔭 I'm currently working on Web Development Projects
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2021 Goals: Learn ReactJs, NodeJs and MongoDB
@@ -58,7 +56,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=parmeshwalunj&show_icons=true&hide_border=true" />
 
 </details>
 
