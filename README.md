@@ -1,6 +1,6 @@
 ### Hi there, I'm Parmesh 👋
 
-## I'm a Developer who drinks a ton of Coffee!!
+## A Developer who drinks a ton of Coffee!!
 
 - 🔭 I'm currently working on Web Development Projects
 - 🌱 I’m currently learning everything 🤣
