@@ -28,7 +28,7 @@
 </details>
 
 [instagram]: https://www.instagram.com/parmeshwalunj/
-[linkedin]: https://www.linkedin.com/in/parmesh-walunj/
+[linkedin]: https://www.linkedin.com/in/pw7/
 
 
 <!--
