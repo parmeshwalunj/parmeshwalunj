@@ -5,7 +5,7 @@
 - 🔭 I'm currently working on Web Development Projects
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2021 Goals: Learn ReactJs, NodeJs and MongoDB
+- 🥅 Goals: Learn NextJs and Rust
 - ⚡ Fun fact: I love to watch TMKOC
 
 
