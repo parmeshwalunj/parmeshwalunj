@@ -20,12 +20,12 @@
 
 ---
 
-#<details>
-  #<summary>:zap: GitHub Stats</summary>
+<details>
+  <summary>:zap: GitHub Stats</summary>
 
-  #<img align="left" alt="Parmesh's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=parmeshwalunj&show_icons=true&hide_border=true" />
+  <><img align="left" alt="Parmesh's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=parmeshwalunj&show_icons=true&hide_border=true" />
 
-#</details>
+</details>
 
 [instagram]: https://www.instagram.com/parmeshwalunj/
 [linkedin]: https://www.linkedin.com/in/pw7/
