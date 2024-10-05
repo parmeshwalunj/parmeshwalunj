@@ -20,18 +20,18 @@
 
 ---
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <><img align="left" alt="Parmesh's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=parmeshwalunj&show_icons=true&hide_border=true" />
-
-</details>
-
 [instagram]: https://www.instagram.com/parmeshwalunj/
 [linkedin]: https://www.linkedin.com/in/pw7/
 
-
 <!--
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="Parmesh's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=parmeshwalunj&show_icons=true&hide_border=true" />
+
+</details>
+
+
 **parmeshwalunj/parmeshwalunj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
